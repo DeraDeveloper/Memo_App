@@ -1,2 +1,3 @@
 # Memo_App
-A memo app for aiivon
+A simple memo app layout
+![alt text](Login activity.png?raw=true "This is the Login Layout")
